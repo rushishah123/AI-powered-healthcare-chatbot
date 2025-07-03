@@ -1,0 +1,3 @@
+flask
+shared @ file:///app/../shared
+pydantic
